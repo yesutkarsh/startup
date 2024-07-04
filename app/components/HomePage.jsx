@@ -10,7 +10,7 @@ export default function HomePage() {
             {" "}
             Upload & <br /> <span>Print</span>{" "}
           </h1>
-          <span>India's First Online Print On Demand Service</span> <br />
+          <span>India"s First Online Print On Demand Service</span> <br />
           {/* <div className={style.buttons}>
           <div className={style.upload}>
           <i class="ri-upload-cloud-2-fill"></i>
@@ -39,8 +39,8 @@ export default function HomePage() {
         <div className={style.service}>
             <div className={style.card}>
                 <div>
-                <span className='font-extrabold text-3xl'>NOTES</span> <br />
-                <span className='font-bold text-gray-700'>TO BOOK</span>
+                <span className="font-extrabold text-3xl">NOTES</span> <br />
+                <span className="font-bold text-gray-700">TO BOOK</span>
 
                 </div>
             </div>
@@ -61,8 +61,8 @@ export default function HomePage() {
 
             <div className={style.card}>
                 <div>
-                <span className='font-extrabold text-3xl'>SCHOOL</span> <br />
-                <span className='font-bold text-gray-700'>PROJECT FILE</span>
+                <span className="font-extrabold text-3xl">SCHOOL</span> <br />
+                <span className="font-bold text-gray-700">PROJECT FILE</span>
 
                 </div>
             </div>
@@ -75,8 +75,8 @@ export default function HomePage() {
         <div className={style.service}>
             <div className={style.card}>
                 <div>
-                <span className='font-extrabold text-1xl'>VISITING CARD</span> <br />
-                <span className='font-bold text-gray-700'>@ ₹3 Per Card</span>
+                <span className="font-extrabold text-1xl">VISITING CARD</span> <br />
+                <span className="font-bold text-gray-700">3 Per Card</span>
 
                 </div>
             </div>
