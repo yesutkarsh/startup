@@ -71,3 +71,57 @@
     cursor: pointer;
 }
 
+
+
+
+/* Services */
+
+.label{
+    font-size: 20px;
+    font-weight: 600;
+    text-align: left;
+    width: 100%;
+    margin-top: 20px;
+    padding: 20px;
+    color: rgb(247, 247, 247);
+}
+#wrapperService{
+    border-radius: 22px 22px 0px 0px;
+}
+.service{
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+    width: 100vw;
+    max-width: 900px;
+    padding: 20px;
+    
+}
+.Info ,.card{
+    /* align-items: center; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    border: 1px solid rgba(0, 0, 0, 0.021);
+    background-color: rgb(245, 245, 245);
+    height: 200px;
+    border-radius: 12px;
+    /* box-shadow: 10px 10px 100px 10px rgba(2, 100, 84, 0.123); */
+}
+.Info{
+    padding: 10px;
+    font-weight: 500;
+    color: rgb(68, 68, 68);
+}
+
+.card:hover{
+    font-size: 30px;
+    transition: 0.51s;
+}
+
+.Info:hover{
+    font-size: 20px;
+    transition: 0.51s;
+}
+
